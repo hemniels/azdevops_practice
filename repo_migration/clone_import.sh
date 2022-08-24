@@ -1,4 +1,4 @@
-for REPO_NAME in "${repoArray[@]}"
+for REPO_NAME in "${REPO_ARRAY[@]}"
 do
     az repos import create \
         --git-source-url "$URL" \
