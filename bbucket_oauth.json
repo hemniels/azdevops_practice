@@ -1,0 +1,9 @@
+{
+	"_comment": "NEEDS CONSUMER LEVEL ACCOUNTS FROM BBUCKET ORG",
+    "bitbucket-oauth": {
+        "bitbucket.org": {
+            "consumer-key": "REPLACE_KEY",
+            "consumer-secret": "REPLACE_SECRET"
+        }
+    }
+}
